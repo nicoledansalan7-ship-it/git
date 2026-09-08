@@ -76,14 +76,6 @@ font-size:32px;
 
 
 
-.home p{
-
-line-height:1.6;
-
-}
-
-
-
 .products-container{
 
 display:flex;
@@ -127,5 +119,23 @@ color:#a0522d;
 color:#8b4513;
 
 font-size:20px;
+
+}
+
+
+
+/* NEW REVIEWS DESIGN USING SAME INTERFACE */
+
+#reviews{
+
+background:#f5d6b3;
+
+}
+
+
+
+#reviews p{
+
+line-height:1.6;
 
 }
