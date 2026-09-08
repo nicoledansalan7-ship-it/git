@@ -124,7 +124,7 @@ font-size:20px;
 
 
 
-/* NEW REVIEWS DESIGN USING SAME INTERFACE */
+/* Reviews Ribbon */
 
 #reviews{
 
@@ -134,7 +134,36 @@ background:#f5d6b3;
 
 
 
-#reviews p{
+/* About Ribbon */
+
+#about{
+
+background:#fff8f0;
+
+}
+
+
+
+#about p{
+
+line-height:1.6;
+
+}
+
+
+
+
+/* Contact Ribbon */
+
+#contact{
+
+background:#f5d6b3;
+
+}
+
+
+
+#contact p{
 
 line-height:1.6;
 
