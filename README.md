@@ -1,33 +1,13 @@
-Name:
-Nicole D. Dansalan
+# Activity 1 Project
 
+This repository contains my project for Git Workshop Activity 3.
 
-Project Title:
-Sweet Crumbs Bakery Website
+## Description
 
+This project demonstrates using Git and GitHub for version control, including remote repositories, commits, and branching.
 
-Brief Description:
-Sweet Crumbs Bakery Website is a bakery website created using
-HTML and CSS. It provides information about the bakery, displays
-different products, and presents important details such as
-services and contact information for customers.
+## Tools Used
 
-
-
-Reflection:
-Creating this project helped me understand how to build and
-design a simple website using HTML and CSS. I learned how to
-organize webpage content, improve the appearance of a website,
-and develop a project gradually through different versions.
-
-Using Git also helped me track my progress and understand how
-changes in a project can be saved and managed properly.
-
-
-
-Difference between git add and git commit:
-The git add command prepares the changes made in the project
-and places them in the staging area before saving.
-
-The git commit command permanently saves those staged changes
-and records them as a new version in the Git repository history.
+- Git
+- GitHub
+- Visual Studio Code
